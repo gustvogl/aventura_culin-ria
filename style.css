@@ -1,32 +1,48 @@
 /* Reset básico */
+<style>
+@import url('https://fonts.cdnfonts.com/css/darumadrop-one');
+</style>
 body {
     font-family: 'Arial', sans-serif;
     margin: 20px;
     background-color: #f9f0ff;
     color: #333;
     line-height: 1.6;
+ font-family: 'Darumadrop One', sans-serif;
 }
 
 /* Cabeçalhos */
 h1 {
     color: #4f5dd9;
     text-align: center;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 h2 {
     color: #4e59f0;
     text-align: center;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 h3 {
     color: #5b64de;
     margin-top: 20px;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 /* Parágrafo */
 p {
     font-size: 1.1em;
     margin-bottom: 15px;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 /* Citação */
@@ -36,11 +52,17 @@ blockquote {
     border-left: 5px solid #5d4fd9;
     padding: 10px 15px;
     margin: 20px 0;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 /* Listas */
 ul, ol {
     margin-left: 30px;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 /* Imagem */
@@ -50,6 +72,9 @@ img {
     height: auto;
     margin: 0 auto;
     border-radius: 10px;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 /* Tabela */
@@ -58,21 +83,32 @@ table {
     margin: 20px auto;
     border-collapse: collapse;
     text-align: left;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 th, td {
     padding: 10px;
     border: 1px solid #ddd;
+                                                                    font-family: 'Darumadrop One', sans-serif;
+                                                
+
 }
 
 th {
     background-color: #6c4ef0;
     color: #fff;
+font-family: 'Darumadrop One', sans-serif;
+
 }
 
 caption {
     caption-side: top;
     font-size: 1.2em;
     margin-bottom: 10px;
+font-family: 'Darumadrop One', sans-serif;
+
 }
+
 
