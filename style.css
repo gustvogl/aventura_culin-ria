@@ -1,7 +1,4 @@
 /* Reset básico */
-<style>
-@import url('https://fonts.cdnfonts.com/css/darumadrop-one');
-</style>
 body {
     font-family: 'Arial', sans-serif;
     margin: 20px;
@@ -110,5 +107,6 @@ caption {
 font-family: 'Darumadrop One', sans-serif;
 
 }
+
 
 
